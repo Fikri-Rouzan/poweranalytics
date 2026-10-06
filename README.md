@@ -19,7 +19,7 @@ Dataset yang digunakan dalam proyek ini memuat data mengenai variabel operasiona
 | 🌐 **Programming Language** | `Python`                                                                      |
 | 🌱 **Environment**          | `Jupyter Notebook`                                                            |
 | 🧩 **Framework**            | `Streamlit`                                                                   |
-| ⚛️ **Libraries**            | `NumPy`, `pandas`, `Matplotlib`, `seaborn`, `SciPy`, `scikit-learn`, `Joblib` |
+| ⚛️ **Libraries**            | `NumPy`, `pandas`, `matplotlib`, `seaborn`, `SciPy`, `scikit-learn`, `Joblib` |
 | ⚡ **Tool**                 | `Google Colab`                                                                |
 | 🚀 **Deployment**           | `Streamlit Community Cloud`                                                   |
 
